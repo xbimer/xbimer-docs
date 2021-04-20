@@ -2,7 +2,7 @@
 <img src='./_images/logo.png' width='512px'/>
 </p>
 <p align='center'>
-<img src='https://img.shields.io/badge/cli_latest-2.0.0-green' />
+<img src='https://img.shields.io/badge/cli_latest-2.0.1-green' />
 </p>
 
 <p align='center'>
