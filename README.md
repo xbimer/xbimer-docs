@@ -36,6 +36,11 @@ xBIMer is a solution between the official C++SDK and the official Python API, an
 
 - [Videos](https://www.xbimer.com/videos)
 
+## Subscribe
+
+- Twitter: @xbimerOfficial
+- [Youtube](https://www.youtube.com/channel/UCDZAh_-VJj_GsEXzi3KMA2Q)
+
 ## Feedback
 
 - [Creat issue on github](https://github.com/xbimer/xbimer-docs/issues/new)
