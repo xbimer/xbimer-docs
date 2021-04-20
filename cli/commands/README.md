@@ -9,6 +9,7 @@
 ## Contents
 
 - [applet-init](#applet-init)
+- [module-init](#module-init)
 - [set-token](#set-token)
 - [version](#version)
 - [whoami](#whoami)
@@ -23,6 +24,16 @@ Initialize xbimer applet project
 
 ```bash
 xbimer applet-init
+```
+
+### `module-init`
+
+![2.0.0](https://img.shields.io/badge/Since-2.0.0-green)
+
+Initialize xbimer module project
+
+```bash
+xbimer module-init
 ```
 
 ### `set-token`
