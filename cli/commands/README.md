@@ -8,21 +8,21 @@
 
 ## Contents
 
-- [init-applet](#init-applet)
+- [applet-init](#applet-init)
 - [set-token](#set-token)
 - [version](#version)
 - [whoami](#whoami)
 
 ## Usage
 
-### `init-applet`
+### `applet-init`
 
 ![2.0.0](https://img.shields.io/badge/Since-2.0.0-green)
 
 Initialize xbimer applet project
 
 ```bash
-xbimer init-applet
+xbimer applet-init
 ```
 
 ### `set-token`
