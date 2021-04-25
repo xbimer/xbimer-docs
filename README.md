@@ -2,7 +2,7 @@
 <img src='./_images/logo.png' width='512px'/>
 </p>
 <p align='center'>
-<img src='https://img.shields.io/badge/cli_latest-2.0.1-green' />
+<img src='https://img.shields.io/github/v/release/xbimer/xbimer-cli?label=cli%20latest' />
 </p>
 
 <p align='center'>
