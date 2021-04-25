@@ -3,6 +3,7 @@
 </p>
 <p align='center'>
 <img src='https://img.shields.io/github/v/release/xbimer/xbimer-cli?label=cli%20latest' />
+<img src='https://img.shields.io/github/v/release/xbimer/xbimer-xir?label=xir%20latest' />
 </p>
 
 <p align='center'>
