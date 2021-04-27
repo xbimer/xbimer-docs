@@ -2,6 +2,6 @@
 <img src='../_images/logo.png' width='512px'/>
 </p>
 
-# Examples
+# Example
 
 - [logger](./src/xir_logger.py)
