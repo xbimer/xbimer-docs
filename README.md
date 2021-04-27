@@ -20,10 +20,10 @@ xBIMer is a solution between the official C++SDK and the official Python API, an
   - [Install](./cli/install.md)
   - [Update](./cli/update.md)
   - [Usage](./cli/commands/README.md)
-- [XiR](): Python runtime for Archciad
+- [XiR](https://github.com/xbimer/xbimer-xir): Python runtime for Archciad
   - [Install]()
   - [Update]()
-  - [API Refrences]()
+  - [API Refrences](./_modules/README.md)
   - [Example]()
 
 ## Feature
