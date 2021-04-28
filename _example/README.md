@@ -4,4 +4,6 @@
 
 # Example
 
-- [logger](./src/xir_logger.py)
+- XiR
+  - [logger](./src/xir_logger.py)
+  - [runtime](./src/xir_runtime.py)

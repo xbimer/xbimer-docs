@@ -6,3 +6,4 @@
 
 - XiR
   - [logger](./XiR/logger.md)
+  - [runtime](./XiR/runtime.md)

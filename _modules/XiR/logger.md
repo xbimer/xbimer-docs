@@ -15,7 +15,7 @@ The logger class provides a simple debugging console
 
 ### `debug(log)`
 
-![1.0.0](https://img.shields.io/badge/Since-1.0.0-green)
+![1.0.0](https://img.shields.io/badge/since-1.0.0-green)
 
 Use `debug` level output log,alias `print`
 
@@ -25,7 +25,7 @@ Use `debug` level output log,alias `print`
 
 ### `info(log)`
 
-![1.0.0](https://img.shields.io/badge/Since-1.0.0-green)
+![1.0.0](https://img.shields.io/badge/since-1.0.0-green)
 
 Use `info` level output log
 
@@ -35,7 +35,7 @@ Use `info` level output log
 
 ### `warn(log)`
 
-![1.0.0](https://img.shields.io/badge/Since-1.0.0-green)
+![1.0.0](https://img.shields.io/badge/since-1.0.0-green)
 
 Use `warn` level output log
 
@@ -45,7 +45,7 @@ Use `warn` level output log
 
 ### `error(log)`
 
-![1.0.0](https://img.shields.io/badge/Since-1.0.0-green)
+![1.0.0](https://img.shields.io/badge/since-1.0.0-green)
 
 Use `error` level output log
 
