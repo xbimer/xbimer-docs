@@ -7,3 +7,4 @@
 - XiR
   - [logger](./src/xir_logger.py)
   - [runtime](./src/xir_runtime.py)
+  - [isolate](./src/xir_isolate.py)
