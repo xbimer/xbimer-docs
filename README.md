@@ -24,6 +24,7 @@ xBIMer is a solution between the official C++SDK and the official Python API, an
   - [Install]()
   - [Update]()
   - [API Refrences](./_modules/README.md)
+  - [Hooks](./_hook/README.md)
   - [Example](./_example/README.md)
 
 ## Feature

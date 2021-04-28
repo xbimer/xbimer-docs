@@ -5,6 +5,8 @@
 # Example
 
 - XiR
-  - [logger](./src/xir_logger.py)
-  - [runtime](./src/xir_runtime.py)
-  - [isolate](./src/xir_isolate.py)
+  - [logger](./src/xir/logger.py)
+  - [runtime](./src/xir/runtime.py)
+  - [isolate](./src/xir/isolate.py)
+  - hook
+    - [OnContextMenuHook](./src/xir/hook/OnContextMenuHook.py)
