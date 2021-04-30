@@ -14,5 +14,5 @@
   - shape
     - [Point](./XiR/shape/Point.md)
     - [PointF](./XiR/shape/PointF.md)
-    - [Rect]()
-    - [RectF]()
+    - [Rect](./XiR/shape/Rect.md)
+    - [RectF](./XiR/shape/RectF.md)
