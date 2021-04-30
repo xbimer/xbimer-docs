@@ -11,3 +11,8 @@
   - [runtime](./XiR/runtime.md)
   - hook
     - [ContextMenuEventArgs](./XiR/hook/ContextMenuEventArgs.md)
+  - shape
+    - [Point](./XiR/shape/Point.md)
+    - [PointF](./XiR/shape/PointF.md)
+    - [Rect]()
+    - [RectF]()
