@@ -2,7 +2,7 @@
 <img src='../../../_images/logo.png' width='512px'/>
 </p>
 
-# ContextMenuEvent
+# ContextMenuEventArgs
 
 <p align='left'>
 <img src='https://img.shields.io/badge/type-class-green' />

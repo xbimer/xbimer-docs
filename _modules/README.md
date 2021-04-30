@@ -4,9 +4,10 @@
 
 # API Refrences
 
-- XiR
+- XiR(builtin)
+  - [applet](./XiR/applet.md)
+  - [isolate](./XiR/isolate.md)
   - [logger](./XiR/logger.md)
   - [runtime](./XiR/runtime.md)
-  - [isolate](./XiR/isolate.md)
   - hook
-    - [ContextMenuEvent](./XiR/hook/ContextMenuEvent.md)
+    - [ContextMenuEventArgs](./XiR/hook/ContextMenuEventArgs.md)
