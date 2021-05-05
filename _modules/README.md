@@ -9,6 +9,7 @@
   - [isolate](./XiR/isolate.md)
   - [logger](./XiR/logger.md)
   - [runtime](./XiR/runtime.md)
+  - [userinfo](./XiR/userinfo.md)
   - hook
     - [ContextMenuEventArgs](./XiR/hook/ContextMenuEventArgs.md)
   - shape
