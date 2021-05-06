@@ -17,3 +17,5 @@
     - [PointF](./XiR/shape/PointF.md)
     - [Rect](./XiR/shape/Rect.md)
     - [RectF](./XiR/shape/RectF.md)
+  - system
+    - [Guid](./XiR/system/Guid.md)
