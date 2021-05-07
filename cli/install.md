@@ -6,6 +6,8 @@
 <span>Install xbimer-cli</span>
 </p>
 
+In order to simplify your installation process, you'd better install [XiR](../xir/install.md) components first
+
 ## Requirements
 
 Python 3.7.5 only
