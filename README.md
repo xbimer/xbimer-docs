@@ -22,6 +22,13 @@ xBIMer is a solution between the official C++SDK and the official Python API, an
   - [API Refrences](./_modules/README.md)
   - [Hooks](./_hook/README.md)
   - [Example](./_example/README.md)
+  - Supported
+    - Windows
+      - Archicad 22
+      - Archicad 23
+      - Archicad 24
+    - MacOS
+      - in future
 - [CLI](https://github.com/xbimer/xbimer-cli): Command line tools for xBIMer
   - [Install](./cli/install.md)
   - [Update](./cli/update.md)
