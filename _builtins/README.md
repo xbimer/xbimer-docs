@@ -2,9 +2,9 @@
 <img src='../_images/logo.png' width='512px'/>
 </p>
 
-# API Refrences
+# Builtins
 
-- XiR(builtin)
+- XiR
   - [applet](./XiR/applet.md)
   - [isolate](./XiR/isolate.md)
   - [logger](./XiR/logger.md)
